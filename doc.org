@@ -1,0 +1,14 @@
+* rnnt 相关资料
+** paper
+  - [[http://bacchiani.net/resume/papers/ASRU2017.pdf][Improving the Efficiency of Forward-Backward Algorithm using Batched Computation in TensorFlow]]
+  - [[https://arxiv.org/pdf/2203.16868.pdf][Memory-Efficient Training of RNN-Transducer with Sampled Softmax]]
+  - [[https://sci-hub.se/10.1109/ICASSP.2019.8682336][STREAMING END-TO-END SPEECH RECOGNITION FOR MOBILE DEVICES]]
+  - [[https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b894f17e23b7071e22da64b8a6eff1bd28a716e4.pdf][FASTEMIT: LOW-LATENCY STREAMING ASR WITH SEQUENCE-LEVEL EMISSION REGULARIZATION]]
+  - [[https://www.isca-speech.org/archive_v0/Interspeech_2017/pdfs/1557.PDF][An efficient phone ngram forward-backward computation using dense matrix multiplication]]
+  - https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/ops/ctc_ops.py#L989
+
+
+** trick
+
+
+[[file:docs/2022-08-01_16-32-03_2022-08-01_16-22-46_Screen Shot 2022-08-01 at 16.22.44.png]]
